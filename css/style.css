@@ -1,0 +1,17 @@
+body {
+  background-color: #e3dcfa;
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+
+.photo {
+  width: 400px;
+  border-radius: 200px;
+  border: 5px solid rgb(247, 163, 107);
+  box-shadow: 0 0 7px rgb(239, 247, 138);
+  float: left;
+  margin: 17px 17px 17px 0;
+}

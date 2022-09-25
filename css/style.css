@@ -4,7 +4,6 @@ body {
 
 h1 {
   color: blueviolet;
-  text-align: center;
 }
 
 .photo {
@@ -13,5 +12,9 @@ h1 {
   border: 5px solid rgb(247, 163, 107);
   box-shadow: 0 0 7px rgb(239, 247, 138);
   float: left;
-  margin: 17px 17px 17px 0;
+  margin: 20px 20px 20px 20px;
+}
+
+p {
+  background-color: antiquewhite;
 }

@@ -1,12 +1,12 @@
 h1 {
-  color: blueviolet;
+  color: blue;
 }
 
 .photo {
   width: 400px;
   border-radius: 200px;
-  border: 5px solid rgb(247, 163, 107);
-  box-shadow: 0 0 7px rgb(239, 247, 138);
+  border: 5px solid rgba(24, 81, 240, 0.767);
+  box-shadow: 5px 5px 5px rgba(0, 0, 255, 0.356);
   float: left;
   margin: 20px 20px 20px 20px;
 }
